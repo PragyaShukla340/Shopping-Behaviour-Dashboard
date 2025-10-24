@@ -1,2 +1,2 @@
-# AQI-REPORT-DASHBOARD
-An interactive, responsive dashboard for visualizing real-time and historical air quality data. This project fetches and displays data from multiple pollutants, provides geographical mapping, and uses predictive analysis to offer a clear and actionable overview of air quality conditions in various locations.
+# Shopping-Behaviour-Dashboard
+Interactive Power BI Dashboard for analyzing customer shopping behavior. Includes KPIs like Customer Retention %, Average Order Value, Total Spending, and Demographic Insights built from a real-world dataset of 3,900 customer records.
