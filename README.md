@@ -53,7 +53,7 @@ The project highlights key performance indicators (KPIs) such as **Customer Rete
 ## 💡 Tools Used
 - **Power BI Desktop** — For data visualization and KPI dashboarding  
 - **DAX (Data Analysis Expressions)** — For creating custom measures  
-- **Microsoft Excel / CSV** — Source data storage  
+- **Microsoft Excel / CSV** — Source data storage & Cleaning  
 
 ---
 
