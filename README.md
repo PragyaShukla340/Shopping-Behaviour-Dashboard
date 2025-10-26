@@ -35,7 +35,7 @@ It transforms raw transactional data into actionable insights — revealing cust
 ---
 
 ### 🔄 **2. Customer Loyalty & Funnel**
-* The **Customer Funnel** visualization shows a healthy retention ratio, with **31% loyalty conversion** — meaning roughly one in three customers transitioned from first-time buyers to repeat or loyal customers.  
+* The **Customer Funnel** visualization shows a healthy retention ratio, with **31% loyalty conversion** meaning roughly one in three customers transitioned from first-time buyers to repeat or loyal customers.  
 * This indicates **effective re-engagement strategies**, but also highlights scope for loyalty program optimization to push this conversion toward 40–45%.
 
 ---
@@ -50,7 +50,7 @@ It transforms raw transactional data into actionable insights — revealing cust
 ### 🌦️ **4. Seasonal & Behavioral Trends**
 * Spending peaks were observed during **Summer and Winter**, correlating with typical apparel cycles and festive demand.  
 * **Quarterly and monthly shoppers** form the bulk of loyal customers, reinforcing that consistency drives retention.  
-* The correlation between **review ratings and purchase amounts** showed that higher spenders tend to leave slightly better ratings — a subtle indicator of product satisfaction at premium tiers.
+* The correlation between **review ratings and purchase amounts** showed that higher spenders tend to leave slightly better ratings a subtle indicator of product satisfaction at premium tiers.
 
 ---
 
@@ -67,7 +67,7 @@ It transforms raw transactional data into actionable insights — revealing cust
 * **Marketing Optimization:** Allocate marketing spend toward **female customers aged 31–50** with campaigns emphasizing premium collections.  
 * **Seasonal Promotions:** Plan major sales around **Summer and Winter**, while testing limited campaigns in Spring and Fall to stabilize off-season revenue.  
 * **Product Strategy:** Maintain strong stock levels in **Clothing and Accessories**, while improving visibility for **Footwear and Outerwear** categories.  
-* **Customer Experience:** The modest review average (3.75) suggests room for improvement — consider better post-purchase support or review engagement.
+* **Customer Experience:** The modest review average (3.75) suggests room for improvement consider better post-purchase support or review engagement.
 
 ---
 
